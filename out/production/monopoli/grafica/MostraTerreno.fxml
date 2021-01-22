@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="300.0" prefWidth="450.0" style="-fx-background-color: linear-gradient(#FFED00,#FF3900);" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="grafica.MostraTerreno">
+   <children>
+      <SplitPane dividerPositions="0.4" layoutX="79.0" layoutY="61.0" prefHeight="300.0" prefWidth="450.0" style="-fx-border-color: transparent;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0" style="-fx-background-color: linear-gradient(#FFED00,#FF3900);">
+               <children>
+                  <HBox alignment="CENTER" prefHeight="298.0" prefWidth="129.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <ImageView fx:id="view" fitHeight="288.0" fitWidth="162.0" pickOnBounds="true" preserveRatio="true" />
+                     </children>
+                  </HBox>
+               </children></AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="298.0" prefWidth="260.0" style="-fx-background-color: linear-gradient(#FFED00,#FF3900);;">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="298.0" prefWidth="311.0" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <Label fx:id="nome" text="Nome" />
+                        <Label fx:id="colore" text="Colore" />
+                        <Label fx:id="valore" text="Valore" />
+                        <Label fx:id="singola" text="Prezzo costruzione singola casa" />
+                        <Label fx:id="albergo" text="Prezzo costruzione albergo" />
+                        <Label fx:id="terreno" text="Passaggio" />
+                        <Label fx:id="prezzoCasa" text="Prezzo a singola casa" />
+                        <Label fx:id="prezzoAlbergo" text="Prezzo albergo" />
+                     </children>
+                  </VBox>
+               </children></AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

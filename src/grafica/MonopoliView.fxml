@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1360" style="-fx-background-color: #3fd196;" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="grafica.GamePlayController">
+   <children>
+      <MenuBar layoutX="14.0" layoutY="6.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#shutDown" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Delete" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <Canvas fx:id="view" height="550.0" width="550.0" AnchorPane.leftAnchor="20.0" AnchorPane.topAnchor="50.0" />
+      <Label fx:id="coins" layoutX="41.0" layoutY="646.0" style="-fx-font-weight: bold;" text="Badoni Coins:" />
+      <Label fx:id="nomeLabel" layoutX="41.0" layoutY="626.0" style="-fx-font-weight: bold;" text="Nome:" />
+      <ListView fx:id="lista" layoutX="190.0" layoutY="630.0" orientation="HORIZONTAL" prefHeight="160.0" prefWidth="500.0" style="-fx-background-color: #3fd196;" />
+   </children>
+</AnchorPane>

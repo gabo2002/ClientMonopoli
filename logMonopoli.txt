@@ -1,0 +1,529 @@
+Ora: 08-01-2021 21:39:33 : Client avviato!
+Ora: 08-01-2021 21:39:33 : Client avviato!
+Ora: 08-01-2021 21:39:33 : Errore nell'apertura del file xml: imprevisti.xml
+Ora: 08-01-2021 21:39:33 : Errore nell'apertura del file xml: probabilita.xml
+Ora: 08-01-2021 21:39:33 : Errore nell'apertura del file xml: terreni.xml
+Ora: 08-01-2021 21:39:33 : Client avviato!
+Ora: 08-01-2021 21:39:33 : Errore nella comunicazione con il server 
+Ora: 08-01-2021 21:39:33 : Inizializzazione client completata
+Ora: 08-01-2021 21:41:26 : Client avviato!
+Ora: 08-01-2021 21:41:26 : Client avviato!
+Ora: 08-01-2021 21:41:26 : Client avviato!
+Ora: 08-01-2021 21:41:26 : Errore nella comunicazione con il server 
+Ora: 08-01-2021 21:41:26 : Inizializzazione client completata
+Ora: 08-01-2021 21:41:52 : Client avviato!
+Ora: 08-01-2021 21:41:52 : Client avviato!
+Ora: 08-01-2021 21:41:52 : Client avviato!
+Ora: 08-01-2021 21:41:52 : Errore nella comunicazione con il server 
+Ora: 08-01-2021 21:41:52 : Inizializzazione client completata
+Ora: 09-01-2021 15:19:43 : Client avviato!
+Ora: 09-01-2021 15:19:43 : Client avviato!
+Ora: 09-01-2021 15:19:43 : Client avviato!
+Ora: 09-01-2021 15:19:43 : Errore nella comunicazione con il server 
+Ora: 09-01-2021 15:19:43 : Inizializzazione client completata
+Ora: 09-01-2021 15:20:08 : Client avviato!
+Ora: 09-01-2021 15:20:08 : Client avviato!
+Ora: 09-01-2021 15:20:08 : Client avviato!
+Ora: 09-01-2021 15:20:08 : Errore nella comunicazione con il server 
+Ora: 09-01-2021 15:20:08 : Inizializzazione client completata
+Ora: 09-01-2021 15:23:14 : Client avviato!
+Ora: 09-01-2021 15:23:14 : Client avviato!
+Ora: 09-01-2021 15:23:14 : Client avviato!
+Ora: 09-01-2021 15:23:14 : Errore nella comunicazione con il server 
+Ora: 09-01-2021 15:23:14 : Inizializzazione client completata
+Ora: 09-01-2021 15:23:32 : Client avviato!
+Ora: 09-01-2021 15:23:32 : Client avviato!
+Ora: 09-01-2021 15:23:32 : Client avviato!
+Ora: 09-01-2021 15:23:32 : Inizializzazione client completata
+Ora: 09-01-2021 15:24:03 : Client avviato!
+Ora: 09-01-2021 15:24:03 : Client avviato!
+Ora: 09-01-2021 15:24:03 : Client avviato!
+Ora: 09-01-2021 15:24:03 : Errore nella comunicazione con il server 
+Ora: 09-01-2021 15:24:03 : Inizializzazione client completata
+Ora: 09-01-2021 15:24:27 : Client avviato!
+Ora: 09-01-2021 15:24:27 : Client avviato!
+Ora: 09-01-2021 15:24:27 : Client avviato!
+Ora: 09-01-2021 15:25:03 : Client avviato!
+Ora: 09-01-2021 15:25:03 : Client avviato!
+Ora: 09-01-2021 15:25:03 : Client avviato!
+Ora: 09-01-2021 15:25:03 : Errore nella comunicazione con il server scann3d.it
+Ora: 09-01-2021 15:25:03 : Inizializzazione client completata
+Ora: 09-01-2021 15:46:37 : Client avviato!
+Ora: 09-01-2021 15:46:37 : Client avviato!
+Ora: 09-01-2021 15:46:38 : Client avviato!
+Ora: 09-01-2021 15:46:38 : Errore nella comunicazione con il server 
+Ora: 09-01-2021 15:46:38 : Inizializzazione client completata
+Ora: 09-01-2021 15:46:47 : Client avviato!
+Ora: 09-01-2021 15:46:47 : Client avviato!
+Ora: 09-01-2021 15:46:47 : Client avviato!
+Ora: 09-01-2021 15:46:47 : Errore nella comunicazione con il server 
+Ora: 09-01-2021 15:46:47 : Inizializzazione client completata
+Ora: 09-01-2021 15:47:14 : Client avviato!
+Ora: 09-01-2021 15:47:14 : Client avviato!
+Ora: 09-01-2021 15:47:14 : Client avviato!
+Ora: 09-01-2021 15:47:14 : Errore nella comunicazione con il server 127.0.0.1
+Ora: 09-01-2021 15:47:14 : Inizializzazione client completata
+Ora: 10-01-2021 15:14:21 : Client avviato!
+Ora: 10-01-2021 15:14:21 : Client avviato!
+Ora: 10-01-2021 15:14:21 : Client avviato!
+Ora: 10-01-2021 15:14:21 : Errore nella comunicazione con il server 
+Ora: 10-01-2021 15:14:21 : Inizializzazione client completata
+Ora: 10-01-2021 15:15:09 : Client avviato!
+Ora: 10-01-2021 15:15:09 : Client avviato!
+Ora: 10-01-2021 15:15:09 : Client avviato!
+Ora: 10-01-2021 15:15:09 : Errore nella comunicazione con il server 127.0.0.1
+Ora: 10-01-2021 15:15:09 : Inizializzazione client completata
+Ora: 10-01-2021 15:15:21 : Client avviato!
+Ora: 10-01-2021 15:15:21 : Client avviato!
+Ora: 10-01-2021 15:15:21 : Client avviato!
+Ora: 10-01-2021 15:15:21 : Inizializzazione client completata
+Ora: 10-01-2021 15:15:21 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:40:22 : Client avviato!
+Ora: 21-01-2021 09:40:22 : Client avviato!
+Ora: 21-01-2021 09:40:22 : Client avviato!
+Ora: 21-01-2021 09:40:22 : Inizializzazione client completata
+Ora: 21-01-2021 09:40:22 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:40:51 : Client avviato!
+Ora: 21-01-2021 09:40:51 : Client avviato!
+Ora: 21-01-2021 09:40:51 : Client avviato!
+Ora: 21-01-2021 09:40:51 : Inizializzazione client completata
+Ora: 21-01-2021 09:40:51 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:41:11 : Client avviato!
+Ora: 21-01-2021 09:41:11 : Client avviato!
+Ora: 21-01-2021 09:41:11 : Client avviato!
+Ora: 21-01-2021 09:41:11 : Inizializzazione client completata
+Ora: 21-01-2021 09:41:11 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:43:35 : Client avviato!
+Ora: 21-01-2021 09:43:35 : Client avviato!
+Ora: 21-01-2021 09:43:35 : Client avviato!
+Ora: 21-01-2021 09:43:35 : Inizializzazione client completata
+Ora: 21-01-2021 09:43:35 : Errore! Il server e' pieno
+Ora: 21-01-2021 09:44:11 : Client avviato!
+Ora: 21-01-2021 09:44:11 : Client avviato!
+Ora: 21-01-2021 09:44:11 : Client avviato!
+Ora: 21-01-2021 09:44:11 : Inizializzazione client completata
+Ora: 21-01-2021 09:44:11 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:45:07 : Client avviato!
+Ora: 21-01-2021 09:45:07 : Client avviato!
+Ora: 21-01-2021 09:45:07 : Client avviato!
+Ora: 21-01-2021 09:45:07 : Inizializzazione client completata
+Ora: 21-01-2021 09:45:07 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:53:41 : Client avviato!
+Ora: 21-01-2021 09:53:41 : Client avviato!
+Ora: 21-01-2021 09:53:41 : Client avviato!
+Ora: 21-01-2021 09:53:41 : Inizializzazione client completata
+Ora: 21-01-2021 09:53:41 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:54:42 : Client avviato!
+Ora: 21-01-2021 09:54:42 : Client avviato!
+Ora: 21-01-2021 09:54:42 : Client avviato!
+Ora: 21-01-2021 09:54:42 : Inizializzazione client completata
+Ora: 21-01-2021 09:54:42 : Errore! Il server e' pieno
+Ora: 21-01-2021 09:55:07 : Client avviato!
+Ora: 21-01-2021 09:55:07 : Client avviato!
+Ora: 21-01-2021 09:55:07 : Client avviato!
+Ora: 21-01-2021 09:55:07 : Inizializzazione client completata
+Ora: 21-01-2021 09:55:07 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:56:03 : Client avviato!
+Ora: 21-01-2021 09:56:03 : Client avviato!
+Ora: 21-01-2021 09:56:03 : Client avviato!
+Ora: 21-01-2021 09:56:03 : Inizializzazione client completata
+Ora: 21-01-2021 09:56:03 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:58:36 : Client avviato!
+Ora: 21-01-2021 09:58:36 : Client avviato!
+Ora: 21-01-2021 09:58:36 : Client avviato!
+Ora: 21-01-2021 09:58:36 : Inizializzazione client completata
+Ora: 21-01-2021 09:58:36 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 09:59:18 : Client avviato!
+Ora: 21-01-2021 09:59:18 : Client avviato!
+Ora: 21-01-2021 09:59:18 : Client avviato!
+Ora: 21-01-2021 09:59:18 : Inizializzazione client completata
+Ora: 21-01-2021 09:59:18 : Errore! Il server e' pieno
+Ora: 21-01-2021 09:59:41 : Client avviato!
+Ora: 21-01-2021 09:59:41 : Client avviato!
+Ora: 21-01-2021 09:59:41 : Client avviato!
+Ora: 21-01-2021 09:59:41 : Inizializzazione client completata
+Ora: 21-01-2021 09:59:41 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:08:58 : Client avviato!
+Ora: 21-01-2021 12:08:58 : Client avviato!
+Ora: 21-01-2021 12:08:58 : Client avviato!
+Ora: 21-01-2021 12:08:58 : Inizializzazione client completata
+Ora: 21-01-2021 12:08:58 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:09:50 : Client avviato!
+Ora: 21-01-2021 12:09:50 : Client avviato!
+Ora: 21-01-2021 12:09:50 : Client avviato!
+Ora: 21-01-2021 12:09:50 : Inizializzazione client completata
+Ora: 21-01-2021 12:09:50 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:14:13 : Client avviato!
+Ora: 21-01-2021 12:14:13 : Client avviato!
+Ora: 21-01-2021 12:14:13 : Client avviato!
+Ora: 21-01-2021 12:14:13 : Inizializzazione client completata
+Ora: 21-01-2021 12:14:13 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:15:00 : Client avviato!
+Ora: 21-01-2021 12:15:00 : Client avviato!
+Ora: 21-01-2021 12:15:00 : Client avviato!
+Ora: 21-01-2021 12:15:00 : Inizializzazione client completata
+Ora: 21-01-2021 12:15:00 : Errore! Il server e' pieno
+Ora: 21-01-2021 12:15:23 : Client avviato!
+Ora: 21-01-2021 12:15:23 : Client avviato!
+Ora: 21-01-2021 12:15:23 : Client avviato!
+Ora: 21-01-2021 12:15:23 : Inizializzazione client completata
+Ora: 21-01-2021 12:15:23 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:16:33 : Client avviato!
+Ora: 21-01-2021 12:16:33 : Client avviato!
+Ora: 21-01-2021 12:16:33 : Client avviato!
+Ora: 21-01-2021 12:16:33 : Errore nella comunicazione con il server 127.0.0.1
+Ora: 21-01-2021 12:16:33 : Inizializzazione client completata
+Ora: 21-01-2021 12:16:40 : Client avviato!
+Ora: 21-01-2021 12:16:40 : Client avviato!
+Ora: 21-01-2021 12:16:40 : Client avviato!
+Ora: 21-01-2021 12:16:40 : Inizializzazione client completata
+Ora: 21-01-2021 12:16:40 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:18:29 : Client avviato!
+Ora: 21-01-2021 12:18:29 : Client avviato!
+Ora: 21-01-2021 12:18:29 : Client avviato!
+Ora: 21-01-2021 12:18:29 : Inizializzazione client completata
+Ora: 21-01-2021 12:18:29 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:18:53 : Client avviato!
+Ora: 21-01-2021 12:18:53 : Client avviato!
+Ora: 21-01-2021 12:18:53 : Client avviato!
+Ora: 21-01-2021 12:18:53 : Inizializzazione client completata
+Ora: 21-01-2021 12:18:53 : Errore! Il server e' pieno
+Ora: 21-01-2021 12:19:17 : Client avviato!
+Ora: 21-01-2021 12:19:17 : Client avviato!
+Ora: 21-01-2021 12:19:17 : Client avviato!
+Ora: 21-01-2021 12:19:17 : Inizializzazione client completata
+Ora: 21-01-2021 12:19:17 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:33:48 : Client avviato!
+Ora: 21-01-2021 12:33:48 : Client avviato!
+Ora: 21-01-2021 12:33:48 : Client avviato!
+Ora: 21-01-2021 12:33:48 : Inizializzazione client completata
+Ora: 21-01-2021 12:33:48 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:35:06 : Client avviato!
+Ora: 21-01-2021 12:35:06 : Client avviato!
+Ora: 21-01-2021 12:35:06 : Client avviato!
+Ora: 21-01-2021 12:35:06 : Inizializzazione client completata
+Ora: 21-01-2021 12:35:06 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:36:26 : Client avviato!
+Ora: 21-01-2021 12:36:26 : Client avviato!
+Ora: 21-01-2021 12:36:26 : Client avviato!
+Ora: 21-01-2021 12:36:26 : Inizializzazione client completata
+Ora: 21-01-2021 12:36:26 : Errore! Il server e' pieno
+Ora: 21-01-2021 12:36:50 : Client avviato!
+Ora: 21-01-2021 12:36:50 : Client avviato!
+Ora: 21-01-2021 12:36:50 : Client avviato!
+Ora: 21-01-2021 12:36:50 : Inizializzazione client completata
+Ora: 21-01-2021 12:36:50 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:38:05 : Client avviato!
+Ora: 21-01-2021 12:38:05 : Client avviato!
+Ora: 21-01-2021 12:38:05 : Client avviato!
+Ora: 21-01-2021 12:38:05 : Inizializzazione client completata
+Ora: 21-01-2021 12:38:05 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:39:09 : Client avviato!
+Ora: 21-01-2021 12:39:09 : Client avviato!
+Ora: 21-01-2021 12:39:09 : Client avviato!
+Ora: 21-01-2021 12:39:09 : Inizializzazione client completata
+Ora: 21-01-2021 12:39:09 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 21-01-2021 12:39:42 : Client avviato!
+Ora: 21-01-2021 12:39:42 : Client avviato!
+Ora: 21-01-2021 12:39:42 : Client avviato!
+Ora: 21-01-2021 12:39:42 : Inizializzazione client completata
+Ora: 21-01-2021 12:39:42 : Errore! Il server e' pieno
+Ora: 21-01-2021 12:40:00 : Client avviato!
+Ora: 21-01-2021 12:40:00 : Client avviato!
+Ora: 21-01-2021 12:40:00 : Client avviato!
+Ora: 21-01-2021 12:40:00 : Inizializzazione client completata
+Ora: 21-01-2021 12:40:00 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 16:42:36 : Client avviato!
+Ora: 22-01-2021 16:42:36 : Client avviato!
+Ora: 22-01-2021 16:42:36 : Client avviato!
+Ora: 22-01-2021 16:42:36 : Inizializzazione client completata
+Ora: 22-01-2021 16:42:36 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 16:43:23 : Client avviato!
+Ora: 22-01-2021 16:43:23 : Client avviato!
+Ora: 22-01-2021 16:43:23 : Client avviato!
+Ora: 22-01-2021 16:43:23 : Inizializzazione client completata
+Ora: 22-01-2021 16:43:23 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 16:44:30 : Client avviato!
+Ora: 22-01-2021 16:44:30 : Client avviato!
+Ora: 22-01-2021 16:44:30 : Client avviato!
+Ora: 22-01-2021 16:44:30 : Inizializzazione client completata
+Ora: 22-01-2021 16:44:30 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 16:45:16 : Client avviato!
+Ora: 22-01-2021 16:45:16 : Client avviato!
+Ora: 22-01-2021 16:45:16 : Client avviato!
+Ora: 22-01-2021 16:45:16 : Inizializzazione client completata
+Ora: 22-01-2021 16:45:16 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 16:46:57 : Client avviato!
+Ora: 22-01-2021 16:46:57 : Client avviato!
+Ora: 22-01-2021 16:46:57 : Client avviato!
+Ora: 22-01-2021 16:46:57 : Inizializzazione client completata
+Ora: 22-01-2021 16:46:57 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 16:48:54 : Client avviato!
+Ora: 22-01-2021 16:48:54 : Client avviato!
+Ora: 22-01-2021 16:48:54 : Client avviato!
+Ora: 22-01-2021 16:48:54 : Inizializzazione client completata
+Ora: 22-01-2021 16:48:54 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 16:52:21 : Client avviato!
+Ora: 22-01-2021 16:52:21 : Client avviato!
+Ora: 22-01-2021 16:52:21 : Client avviato!
+Ora: 22-01-2021 16:52:21 : Inizializzazione client completata
+Ora: 22-01-2021 16:52:21 : Errore! Il server e' pieno
+Ora: 22-01-2021 16:52:39 : Client avviato!
+Ora: 22-01-2021 16:52:39 : Client avviato!
+Ora: 22-01-2021 16:52:39 : Client avviato!
+Ora: 22-01-2021 16:52:39 : Inizializzazione client completata
+Ora: 22-01-2021 16:52:39 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:12:55 : Client avviato!
+Ora: 22-01-2021 17:12:55 : Client avviato!
+Ora: 22-01-2021 17:12:55 : Client avviato!
+Ora: 22-01-2021 17:12:55 : Inizializzazione client completata
+Ora: 22-01-2021 17:12:55 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:13:30 : Client avviato!
+Ora: 22-01-2021 17:13:30 : Client avviato!
+Ora: 22-01-2021 17:13:30 : Client avviato!
+Ora: 22-01-2021 17:13:30 : Inizializzazione client completata
+Ora: 22-01-2021 17:13:30 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:17:23 : Client avviato!
+Ora: 22-01-2021 17:17:23 : Client avviato!
+Ora: 22-01-2021 17:17:23 : Client avviato!
+Ora: 22-01-2021 17:17:23 : Inizializzazione client completata
+Ora: 22-01-2021 17:17:23 : Errore! Il server e' pieno
+Ora: 22-01-2021 17:17:45 : Client avviato!
+Ora: 22-01-2021 17:17:45 : Client avviato!
+Ora: 22-01-2021 17:17:45 : Client avviato!
+Ora: 22-01-2021 17:17:45 : Inizializzazione client completata
+Ora: 22-01-2021 17:17:45 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:19:10 : Client avviato!
+Ora: 22-01-2021 17:19:10 : Client avviato!
+Ora: 22-01-2021 17:19:10 : Client avviato!
+Ora: 22-01-2021 17:19:10 : Inizializzazione client completata
+Ora: 22-01-2021 17:19:10 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:19:55 : Client avviato!
+Ora: 22-01-2021 17:19:55 : Client avviato!
+Ora: 22-01-2021 17:19:55 : Client avviato!
+Ora: 22-01-2021 17:19:55 : Inizializzazione client completata
+Ora: 22-01-2021 17:19:55 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:46:19 : Client avviato!
+Ora: 22-01-2021 17:46:19 : Client avviato!
+Ora: 22-01-2021 17:46:19 : Client avviato!
+Ora: 22-01-2021 17:46:19 : Inizializzazione client completata
+Ora: 22-01-2021 17:46:19 : Errore! Il server e' pieno
+Ora: 22-01-2021 17:46:40 : Client avviato!
+Ora: 22-01-2021 17:46:40 : Client avviato!
+Ora: 22-01-2021 17:46:41 : Client avviato!
+Ora: 22-01-2021 17:46:41 : Inizializzazione client completata
+Ora: 22-01-2021 17:46:41 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:47:59 : Client avviato!
+Ora: 22-01-2021 17:47:59 : Client avviato!
+Ora: 22-01-2021 17:47:59 : Client avviato!
+Ora: 22-01-2021 17:47:59 : Inizializzazione client completata
+Ora: 22-01-2021 17:47:59 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:48:43 : Client avviato!
+Ora: 22-01-2021 17:48:43 : Client avviato!
+Ora: 22-01-2021 17:48:43 : Client avviato!
+Ora: 22-01-2021 17:48:43 : Inizializzazione client completata
+Ora: 22-01-2021 17:48:43 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:49:51 : Client avviato!
+Ora: 22-01-2021 17:49:51 : Client avviato!
+Ora: 22-01-2021 17:49:51 : Client avviato!
+Ora: 22-01-2021 17:49:51 : Inizializzazione client completata
+Ora: 22-01-2021 17:49:51 : Errore! Il server e' pieno
+Ora: 22-01-2021 17:50:32 : Client avviato!
+Ora: 22-01-2021 17:50:32 : Client avviato!
+Ora: 22-01-2021 17:50:32 : Client avviato!
+Ora: 22-01-2021 17:50:32 : Inizializzazione client completata
+Ora: 22-01-2021 17:50:32 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:52:00 : Client avviato!
+Ora: 22-01-2021 17:52:00 : Client avviato!
+Ora: 22-01-2021 17:52:00 : Client avviato!
+Ora: 22-01-2021 17:52:00 : Inizializzazione client completata
+Ora: 22-01-2021 17:52:00 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:52:42 : Client avviato!
+Ora: 22-01-2021 17:52:42 : Client avviato!
+Ora: 22-01-2021 17:52:42 : Client avviato!
+Ora: 22-01-2021 17:52:42 : Inizializzazione client completata
+Ora: 22-01-2021 17:52:42 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:53:02 : Client avviato!
+Ora: 22-01-2021 17:53:02 : Client avviato!
+Ora: 22-01-2021 17:53:02 : Client avviato!
+Ora: 22-01-2021 17:53:02 : Inizializzazione client completata
+Ora: 22-01-2021 17:53:02 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:54:04 : Client avviato!
+Ora: 22-01-2021 17:54:04 : Client avviato!
+Ora: 22-01-2021 17:54:04 : Client avviato!
+Ora: 22-01-2021 17:54:04 : Errore! Indirizzo ip del server non valido!
+Ora: 22-01-2021 17:54:04 : Inizializzazione client completata
+Ora: 22-01-2021 17:54:14 : Client avviato!
+Ora: 22-01-2021 17:54:14 : Client avviato!
+Ora: 22-01-2021 17:54:14 : Client avviato!
+Ora: 22-01-2021 17:54:14 : Inizializzazione client completata
+Ora: 22-01-2021 17:54:14 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:55:45 : Client avviato!
+Ora: 22-01-2021 17:55:45 : Client avviato!
+Ora: 22-01-2021 17:55:45 : Client avviato!
+Ora: 22-01-2021 17:55:45 : Inizializzazione client completata
+Ora: 22-01-2021 17:55:45 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:56:32 : Client avviato!
+Ora: 22-01-2021 17:56:32 : Client avviato!
+Ora: 22-01-2021 17:56:32 : Client avviato!
+Ora: 22-01-2021 17:56:32 : Inizializzazione client completata
+Ora: 22-01-2021 17:56:32 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 17:58:47 : Client avviato!
+Ora: 22-01-2021 17:58:47 : Client avviato!
+Ora: 22-01-2021 17:58:47 : Client avviato!
+Ora: 22-01-2021 17:58:47 : Inizializzazione client completata
+Ora: 22-01-2021 17:58:47 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:01:34 : Client avviato!
+Ora: 22-01-2021 18:01:34 : Client avviato!
+Ora: 22-01-2021 18:01:34 : Client avviato!
+Ora: 22-01-2021 18:01:34 : Inizializzazione client completata
+Ora: 22-01-2021 18:01:34 : Errore! Il server e' pieno
+Ora: 22-01-2021 18:02:03 : Client avviato!
+Ora: 22-01-2021 18:02:03 : Client avviato!
+Ora: 22-01-2021 18:02:03 : Client avviato!
+Ora: 22-01-2021 18:02:03 : Inizializzazione client completata
+Ora: 22-01-2021 18:02:03 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:06:41 : Client avviato!
+Ora: 22-01-2021 18:06:41 : Client avviato!
+Ora: 22-01-2021 18:06:41 : Client avviato!
+Ora: 22-01-2021 18:06:41 : Inizializzazione client completata
+Ora: 22-01-2021 18:06:41 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:16:25 : Client avviato!
+Ora: 22-01-2021 18:16:25 : Client avviato!
+Ora: 22-01-2021 18:16:25 : Client avviato!
+Ora: 22-01-2021 18:16:25 : Inizializzazione client completata
+Ora: 22-01-2021 18:16:25 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:17:49 : Client avviato!
+Ora: 22-01-2021 18:17:49 : Client avviato!
+Ora: 22-01-2021 18:17:49 : Client avviato!
+Ora: 22-01-2021 18:17:49 : Inizializzazione client completata
+Ora: 22-01-2021 18:17:49 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:25:37 : Client avviato!
+Ora: 22-01-2021 18:25:37 : Client avviato!
+Ora: 22-01-2021 18:25:37 : Client avviato!
+Ora: 22-01-2021 18:25:37 : Inizializzazione client completata
+Ora: 22-01-2021 18:25:37 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:28:11 : Client avviato!
+Ora: 22-01-2021 18:28:11 : Client avviato!
+Ora: 22-01-2021 18:28:11 : Client avviato!
+Ora: 22-01-2021 18:28:11 : Inizializzazione client completata
+Ora: 22-01-2021 18:28:11 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:30:35 : Client avviato!
+Ora: 22-01-2021 18:30:35 : Client avviato!
+Ora: 22-01-2021 18:30:35 : Client avviato!
+Ora: 22-01-2021 18:30:35 : Inizializzazione client completata
+Ora: 22-01-2021 18:30:35 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:30:59 : Client avviato!
+Ora: 22-01-2021 18:30:59 : Client avviato!
+Ora: 22-01-2021 18:30:59 : Client avviato!
+Ora: 22-01-2021 18:30:59 : Inizializzazione client completata
+Ora: 22-01-2021 18:30:59 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:36:22 : Client avviato!
+Ora: 22-01-2021 18:36:22 : Client avviato!
+Ora: 22-01-2021 18:36:22 : Client avviato!
+Ora: 22-01-2021 18:36:22 : Inizializzazione client completata
+Ora: 22-01-2021 18:36:22 : Errore! Il server e' pieno
+Ora: 22-01-2021 18:36:42 : Client avviato!
+Ora: 22-01-2021 18:36:42 : Client avviato!
+Ora: 22-01-2021 18:36:42 : Client avviato!
+Ora: 22-01-2021 18:36:42 : Inizializzazione client completata
+Ora: 22-01-2021 18:36:42 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:42:21 : Client avviato!
+Ora: 22-01-2021 18:42:21 : Client avviato!
+Ora: 22-01-2021 18:42:21 : Client avviato!
+Ora: 22-01-2021 18:42:21 : Inizializzazione client completata
+Ora: 22-01-2021 18:42:21 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:43:10 : Client avviato!
+Ora: 22-01-2021 18:43:10 : Client avviato!
+Ora: 22-01-2021 18:43:10 : Client avviato!
+Ora: 22-01-2021 18:43:10 : Inizializzazione client completata
+Ora: 22-01-2021 18:43:10 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:44:06 : Client avviato!
+Ora: 22-01-2021 18:44:06 : Client avviato!
+Ora: 22-01-2021 18:44:06 : Client avviato!
+Ora: 22-01-2021 18:44:06 : Inizializzazione client completata
+Ora: 22-01-2021 18:44:06 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:45:11 : Client avviato!
+Ora: 22-01-2021 18:45:11 : Client avviato!
+Ora: 22-01-2021 18:45:11 : Client avviato!
+Ora: 22-01-2021 18:45:11 : Inizializzazione client completata
+Ora: 22-01-2021 18:45:11 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:46:08 : Client avviato!
+Ora: 22-01-2021 18:46:08 : Client avviato!
+Ora: 22-01-2021 18:46:08 : Client avviato!
+Ora: 22-01-2021 18:46:08 : Inizializzazione client completata
+Ora: 22-01-2021 18:46:08 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:47:21 : Client avviato!
+Ora: 22-01-2021 18:47:21 : Client avviato!
+Ora: 22-01-2021 18:47:21 : Client avviato!
+Ora: 22-01-2021 18:47:21 : Inizializzazione client completata
+Ora: 22-01-2021 18:47:21 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:48:06 : Client avviato!
+Ora: 22-01-2021 18:48:06 : Client avviato!
+Ora: 22-01-2021 18:48:06 : Client avviato!
+Ora: 22-01-2021 18:48:06 : Inizializzazione client completata
+Ora: 22-01-2021 18:48:06 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:49:43 : Client avviato!
+Ora: 22-01-2021 18:49:43 : Client avviato!
+Ora: 22-01-2021 18:49:43 : Client avviato!
+Ora: 22-01-2021 18:49:43 : Inizializzazione client completata
+Ora: 22-01-2021 18:49:43 : Errore! Il server e' pieno
+Ora: 22-01-2021 18:50:07 : Client avviato!
+Ora: 22-01-2021 18:50:07 : Client avviato!
+Ora: 22-01-2021 18:50:07 : Client avviato!
+Ora: 22-01-2021 18:50:07 : Inizializzazione client completata
+Ora: 22-01-2021 18:50:07 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 18:50:58 : Client avviato!
+Ora: 22-01-2021 18:50:58 : Client avviato!
+Ora: 22-01-2021 18:50:58 : Client avviato!
+Ora: 22-01-2021 18:50:58 : Inizializzazione client completata
+Ora: 22-01-2021 18:50:58 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 20:07:23 : Client avviato!
+Ora: 22-01-2021 20:07:23 : Client avviato!
+Ora: 22-01-2021 20:07:23 : Client avviato!
+Ora: 22-01-2021 20:07:23 : Inizializzazione client completata
+Ora: 22-01-2021 20:07:23 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 20:31:29 : Client avviato!
+Ora: 22-01-2021 20:31:29 : Client avviato!
+Ora: 22-01-2021 20:31:29 : Client avviato!
+Ora: 22-01-2021 20:31:29 : Inizializzazione client completata
+Ora: 22-01-2021 20:31:29 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 20:32:34 : Client avviato!
+Ora: 22-01-2021 20:32:34 : Client avviato!
+Ora: 22-01-2021 20:32:34 : Client avviato!
+Ora: 22-01-2021 20:32:34 : Inizializzazione client completata
+Ora: 22-01-2021 20:32:34 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 20:33:21 : Client avviato!
+Ora: 22-01-2021 20:33:21 : Client avviato!
+Ora: 22-01-2021 20:33:21 : Client avviato!
+Ora: 22-01-2021 20:33:21 : Inizializzazione client completata
+Ora: 22-01-2021 20:33:21 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 20:34:12 : Client avviato!
+Ora: 22-01-2021 20:34:12 : Client avviato!
+Ora: 22-01-2021 20:34:12 : Client avviato!
+Ora: 22-01-2021 20:34:12 : Inizializzazione client completata
+Ora: 22-01-2021 20:34:12 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 20:35:15 : Client avviato!
+Ora: 22-01-2021 20:35:15 : Client avviato!
+Ora: 22-01-2021 20:35:15 : Client avviato!
+Ora: 22-01-2021 20:35:15 : Inizializzazione client completata
+Ora: 22-01-2021 20:35:15 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 20:36:26 : Client avviato!
+Ora: 22-01-2021 20:36:26 : Client avviato!
+Ora: 22-01-2021 20:36:26 : Client avviato!
+Ora: 22-01-2021 20:36:26 : Inizializzazione client completata
+Ora: 22-01-2021 20:36:26 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 20:38:06 : Client avviato!
+Ora: 22-01-2021 20:38:06 : Client avviato!
+Ora: 22-01-2021 20:38:06 : Client avviato!
+Ora: 22-01-2021 20:38:06 : Inizializzazione client completata
+Ora: 22-01-2021 20:38:06 : Handshake completato con il server: /127.0.1.1:50000
+Ora: 22-01-2021 20:39:10 : Client avviato!
+Ora: 22-01-2021 20:39:10 : Client avviato!
+Ora: 22-01-2021 20:39:10 : Client avviato!
+Ora: 22-01-2021 20:39:10 : Inizializzazione client completata
+Ora: 22-01-2021 20:40:14 : Client avviato!
+Ora: 22-01-2021 20:40:14 : Client avviato!
+Ora: 22-01-2021 20:40:14 : Client avviato!
+Ora: 22-01-2021 20:40:14 : Inizializzazione client completata
+Ora: 22-01-2021 20:40:14 : Handshake completato con il server: /127.0.1.1:50000
